@@ -1,7 +1,9 @@
-Java Maven Demo
+Java Parse Iso8601 Date Demo
 =====================
 
-Use maven for Java.
+看了一圈，还是SimpleDateFormat最简单。
+
+`LocalDate`看着有点晕
 
 How to run:
 
